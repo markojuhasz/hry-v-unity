@@ -1,7 +1,7 @@
 # Stručný popis ku hrám, ktoré som vytvoril v Unity.
 
 # DONGPONG 2D 
-- [Odkaz na hru](https://play.unity.com/en/games/34e450e7-27f6-4176-b79e-44cbf0abccfd/dongpong)
+ [Odkaz na hru](https://play.unity.com/en/games/34e450e7-27f6-4176-b79e-44cbf0abccfd/dongpong)
 - z kociek som vytvoril 2 pádla, pridal guličku a zadal maximálnu hraciu plochu
 - spravil som Input Mapping z nového input systému pre ovládanie ( W/S, Up/Down )
 - pádlam som pridal Rigidbody2D, vytvoril kód pre pohyb pádel ( W/S lavá strana; Up/Down pravá strana; )
@@ -11,11 +11,11 @@
 - pridal som logiku scóre, gameManager, spravil UI
 - vytvoril som tlačítka pre Start, Exit, Pause, Reset
 - ak hra dosiahne skóre 10, hráč ju môže ukončiť alebo resetovať 
-- [Screenshoty](dongpong2D/screenshots/)
-- [Script](dongpong2D/script/)
+ [Screenshoty](dongpong2D/screenshots/)
+ [Script](dongpong2D/script/)
 
   # Jetpack Hustler
-  - [Odkaz na hru](https://marecheckk.itch.io/jetpack-hustler)
+   [Odkaz na hru](https://marecheckk.itch.io/jetpack-hustler)
   - začal som spísaním si vlastného Game Design Documentu
   - hlavným cielom bolo vytvoriť 2D platformer, kde hráč skáče cez prekážky, zbiera objekty a sem - tam rieši malé puzzle ( posunúť box aby doskočil )
   - nakreslil som si level design pomocou kockového papiera, štvorcov a začal skladať level
@@ -26,8 +26,8 @@
   - vytvoril som scénu, ktorá hráčovi ukáže ako sa hra ovláda a čo obsahuje
   - dokončil som menu, tlačítka a spravil poslednú scénu ( skúšal som pohyblivé titulky )
   - [Sprites](jetpackHustler/sprites)
-  - [Screenshoty](jetpackHustler/screenshots)
-  - [Script](jetpackHustler/script)
+   [Screenshoty](jetpackHustler/screenshots)
+   [Script](jetpackHustler/script)
  
     # The Mistfall ( StreamAlly Comunity Game Jam )
     [Odkaz na hru](https://marecheckk.itch.io/the-mistfall)
