@@ -25,4 +25,5 @@
   - pridal som hudbu, vytvoril zvuky a pridal do hry ( väčšinou na collider, trigger alebo input )
   - vytvoril som scénu, ktorá hráčovi ukáže ako sa hra ovláda a čo obsahuje
   - dokončil som menu, tlačítka a spravil poslednú scénu ( skúšal som pohyblivé titulky )
-  - [Screenshoty](
+  - [Screenshoty](jetpackHustler/screenshots)
+  - [Script](jetpackHustler/script)
