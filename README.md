@@ -1,6 +1,7 @@
 # Stručný popis ku hrám, ktoré som vytvoril v Unity.
 
-# DONGPONG 2D 
+# DONGPONG 2D ![dongPong3](https://github.com/user-attachments/assets/a2727b80-84fc-4dc8-ad21-080417c12696)
+
 - [Odkaz na hru](https://play.unity.com/en/games/34e450e7-27f6-4176-b79e-44cbf0abccfd/dongpong)
 - z kociek som vytvoril 2 pádla, pridal guličku a zadal maximálnu hraciu plochu
 - spravil som Input Mapping z nového input systému pre ovládanie ( W/S, Up/Down )
@@ -14,7 +15,9 @@
 - [Screenshoty](dongpong2D/screenshots/)
 - [Script](dongpong2D/script/)
 
-# Jetpack Hustler
+# Jetpack Hustler ![jtpckHustler](https://github.com/user-attachments/assets/b3e21cae-cd86-4b56-b7cc-5d68d23e9b99)
+
+
 - [Odkaz na hru](https://marecheckk.itch.io/jetpack-hustler)
 - začal som spísaním si vlastného Game Design Documentu
 - hlavným cielom bolo vytvoriť 2D platformer, kde hráč skáče cez prekážky, zbiera objekty a sem - tam rieši malé puzzle ( posunúť box aby doskočil )
@@ -29,7 +32,8 @@
 - [Screenshoty](jetpackHustler/screenshots)
 - [Script](jetpackHustler/script)
  
-# The Mistfall ( StreamAlly Comunity Game Jam )
+# The Mistfall ( StreamAlly Comunity Game Jam ) ![Mistfall nahlad](https://github.com/user-attachments/assets/5ffd589c-c69f-4a6e-8bf9-c4a9050bb300)
+
 - [Odkaz na hru](https://marecheckk.itch.io/the-mistfall)
 - prihlásil som sa do Game Jamu a pridal sa do CZ/SK GameDev Comunity 
 - kedže som sa nedostal do hlavného Jamu kvôli zaplneným kapacitám, nestratil som nádej, zapálenie pre túto akciu a pridal som sa do komunitnej verzie na stránke Itch.io
@@ -46,5 +50,5 @@
 - po skripte som pridal knihu, ktorú hráč vyzdvihne na začiatku hry a pvysvetlí princíp
 - dokončil som UI, ktoré je svojím spôsobom interaktívne / aktívne
 - pri zničení predmetov sa zdvihnutý predmet markne ( podľa počtu predmetov.. 1 = mark 0 atd )
-- [Screenshoty]
-- [Script]
+- [Screenshoty](TheMistfall/screenshots)
+- [Script](TheMistfall/script)
