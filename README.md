@@ -1,6 +1,6 @@
 # Stručný popis ku hrám, ktoré som vytvoril v Unity.
 
-# DONGPONG 2D ![dongPong3](https://github.com/user-attachments/assets/a2727b80-84fc-4dc8-ad21-080417c12696)
+## DONGPONG 2D ![dongPong3](https://github.com/user-attachments/assets/a2727b80-84fc-4dc8-ad21-080417c12696)
 
 - [Odkaz na hru](https://play.unity.com/en/games/34e450e7-27f6-4176-b79e-44cbf0abccfd/dongpong)
 - z kociek som vytvoril 2 pádla, pridal guličku a zadal maximálnu hraciu plochu
@@ -15,7 +15,7 @@
 - [Screenshoty](dongpong2D/screenshots/)
 - [Script](dongpong2D/script/)
 
-# Jetpack Hustler ![jtpckHustler](https://github.com/user-attachments/assets/b3e21cae-cd86-4b56-b7cc-5d68d23e9b99)
+## Jetpack Hustler ![jtpckHustler](https://github.com/user-attachments/assets/b3e21cae-cd86-4b56-b7cc-5d68d23e9b99)
 
 
 - [Odkaz na hru](https://marecheckk.itch.io/jetpack-hustler)
@@ -32,7 +32,7 @@
 - [Screenshoty](jetpackHustler/screenshots)
 - [Script](jetpackHustler/script)
  
-# The Mistfall ( StreamAlly Comunity Game Jam ) ![Mistfall nahlad](https://github.com/user-attachments/assets/5ffd589c-c69f-4a6e-8bf9-c4a9050bb300)
+## The Mistfall ( StreamAlly Comunity Game Jam ) ![Mistfall nahlad](https://github.com/user-attachments/assets/5ffd589c-c69f-4a6e-8bf9-c4a9050bb300)
 
 - [Odkaz na hru](https://marecheckk.itch.io/the-mistfall)
 - prihlásil som sa do Game Jamu a pridal sa do CZ/SK GameDev Comunity 
