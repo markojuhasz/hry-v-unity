@@ -11,8 +11,8 @@
 - pridal som logiku scóre, gameManager, spravil UI
 - vytvoril som tlačítka pre Start, Exit, Pause, Reset
 - ak hra dosiahne skóre 10, hráč ju môže ukončiť alebo resetovať 
- [Screenshoty](dongpong2D/screenshots/)
- [Script](dongpong2D/script/)
+- [Screenshoty](dongpong2D/screenshots/)
+- [Script](dongpong2D/script/)
 
   # Jetpack Hustler
   - [Odkaz na hru](https://marecheckk.itch.io/jetpack-hustler)
