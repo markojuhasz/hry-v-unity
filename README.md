@@ -28,3 +28,23 @@
   - [Sprites](jetpackHustler/sprites)
   - [Screenshoty](jetpackHustler/screenshots)
   - [Script](jetpackHustler/script)
+ 
+    # The Mistfall ( StreamAlly Comunity Game Jam )
+    [Odkaz na hru](https://marecheckk.itch.io/the-mistfall)
+    - prihlásil som sa do Game Jamu a pridal sa do CZ/SK GameDev Comunity 
+    - kedže som sa nedostal do hlavného Jamu kvôli zaplneným kapacitám, nestratil som nádej, zapálenie pre túto akciu a pridal som sa do komunitnej verzie na stránke Itch.io
+    - <mark>Téma Jamu</mark>: You shouldn´t be here
+    - <mark>Môj nápad</mark>: Hráč sa pri nočnej prechádzke ocitol v blúdnom kruhu začarovaného lesa a musí vyriešiť záhadu aby sa dostal von
+    - zadanie záhady znie: zničiť všetky predmety viazané ku strateným dušiam
+    - každý predmet stráži stratená duša a keď sa hráč dostane bližšie, nezasvieti na entity baterkou, duše ho prenasledujú a môžu zabiť
+    - dosiahnuté cez Navmesh, raycast a 2 staty ( stráž, prenasleduj ) 
+    - po vyzbieraní všetkých predmetov hra končí poďakovaním 
+    - <mark>čo som vytvoril</mark>: 250x250m terén tmavého lesa s hmlou, aby som pozdvihol atmosféru
+    - využil som unity free 3D assety ktoré som rozmiestnil po mape a vytvoril z nich zbieratelne predmety
+    - hráč je vlastne kapsula s kamerou ktorá pôsobí ako FirstPerson mode
+    - pridal som baterku a začal písať skript
+    - po skripte som pridal knihu, ktorú hráč vyzdvihne na začiatku hry a pvysvetlí princíp
+    - dokončil som UI, ktoré je svojím spôsobom interaktívne / aktívne
+    - pri zničení predmetov sa zdvihnutý predmet markne ( podľa počtu predmetov.. 1 = mark 0 atd )
+    [Screenshoty]
+    [Script]
