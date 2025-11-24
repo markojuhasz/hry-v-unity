@@ -1,7 +1,7 @@
 # Stručný popis ku hrám, ktoré som vytvoril v Unity.
 
 # DONGPONG 2D 
- [Odkaz na hru](https://play.unity.com/en/games/34e450e7-27f6-4176-b79e-44cbf0abccfd/dongpong)
+- [Odkaz na hru](https://play.unity.com/en/games/34e450e7-27f6-4176-b79e-44cbf0abccfd/dongpong)
 - z kociek som vytvoril 2 pádla, pridal guličku a zadal maximálnu hraciu plochu
 - spravil som Input Mapping z nového input systému pre ovládanie ( W/S, Up/Down )
 - pádlam som pridal Rigidbody2D, vytvoril kód pre pohyb pádel ( W/S lavá strana; Up/Down pravá strana; )
@@ -15,7 +15,7 @@
  [Script](dongpong2D/script/)
 
   # Jetpack Hustler
-   [Odkaz na hru](https://marecheckk.itch.io/jetpack-hustler)
+  - [Odkaz na hru](https://marecheckk.itch.io/jetpack-hustler)
   - začal som spísaním si vlastného Game Design Documentu
   - hlavným cielom bolo vytvoriť 2D platformer, kde hráč skáče cez prekážky, zbiera objekty a sem - tam rieši malé puzzle ( posunúť box aby doskočil )
   - nakreslil som si level design pomocou kockového papiera, štvorcov a začal skladať level
@@ -26,11 +26,11 @@
   - vytvoril som scénu, ktorá hráčovi ukáže ako sa hra ovláda a čo obsahuje
   - dokončil som menu, tlačítka a spravil poslednú scénu ( skúšal som pohyblivé titulky )
   - [Sprites](jetpackHustler/sprites)
-   [Screenshoty](jetpackHustler/screenshots)
-   [Script](jetpackHustler/script)
+  - [Screenshoty](jetpackHustler/screenshots)
+  - [Script](jetpackHustler/script)
  
     # The Mistfall ( StreamAlly Comunity Game Jam )
-    [Odkaz na hru](https://marecheckk.itch.io/the-mistfall)
+    - [Odkaz na hru](https://marecheckk.itch.io/the-mistfall)
     - prihlásil som sa do Game Jamu a pridal sa do CZ/SK GameDev Comunity 
     - kedže som sa nedostal do hlavného Jamu kvôli zaplneným kapacitám, nestratil som nádej, zapálenie pre túto akciu a pridal som sa do komunitnej verzie na stránke Itch.io
     - <mark>Téma Jamu</mark>: You shouldn´t be here
@@ -46,5 +46,5 @@
     - po skripte som pridal knihu, ktorú hráč vyzdvihne na začiatku hry a pvysvetlí princíp
     - dokončil som UI, ktoré je svojím spôsobom interaktívne / aktívne
     - pri zničení predmetov sa zdvihnutý predmet markne ( podľa počtu predmetov.. 1 = mark 0 atd )
-    [Screenshoty]
-    [Script]
+    - [Screenshoty]
+    - [Script]
