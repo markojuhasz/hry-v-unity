@@ -24,8 +24,11 @@
 - ( na použitie coyote timer som neprišiel, ale v kóde zostal )
 - v programe Krita som nakreslil 2D sprites pre platformy, collectibles a postavy
 - pridal som hudbu a vytvoril zvuky ( zvuky sú väčšinou spustené cez trigger, collider alebo input )
-- vytvoril som scénu, ktorá hráčovi ukáže ako sa hra ovláda -> čo obsahuje
-- dokončil som menu, tlačítka a spravil poslednú scénu ( pohyblivé titulky )
+- hra je vytvorená zo štyroch scén ( Main Menu, First Level, Main Level, End )
+- Main Level obsahuje start - exit button, hudbu a animáciu
+- First Level ukáže hráčovi ovládanie, obsah a princíp 
+- Main Level obsahuje hlavné prvky -> podľa Game Design Doc a Level Design Doc
+- End Level -> po ukončení levelu a vyzbieraní aspon 1500 cash hra končí titulkami
 - [Sprites](jetpackHustler/sprites)
 - [Screenshoty](jetpackHustler/screenshots)
 - [Script](jetpackHustler/script)
