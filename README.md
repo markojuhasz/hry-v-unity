@@ -16,14 +16,14 @@
 ## 🎮Jetpack Hustler ![jtpckHustler](https://github.com/user-attachments/assets/b3e21cae-cd86-4b56-b7cc-5d68d23e9b99)
 
 - [Odkaz na hru](https://marecheckk.itch.io/jetpack-hustler)
-- začal som vypísaním vlastného Game Design Documentu
+- vypísal som vlastný Game Design Document
 - 2D platformer, hráč skáče cez prekážky, zbiera objekty a sem - tam rieši malé puzzle ( posunúť box aby doskočil )
 - nakreslil som Level Design pomocou kockového papiera, štvorcov a začal skladať level
 - keď bol level hotový, chcel som mať pohyb podobný platformovkám, ktoré mám rád.. takže som spravil research
-- variabilný jump, max jump height, max fall speed a rozbeh pomocou akcelerácie
+- variabilný jump, max jump height, max fall speed, max move speed a rozbeh pomocou akcelerácie
 - ( na použitie coyote timer som neprišiel, ale v kóde zostal )
 - v programe Krita som nakreslil 2D sprites pre platformy, collectibles a postavy
-- pridal som hudbu a vytvoril zvuky ( zvuky sú väčšinou cez trigger, collider alebo input )
+- pridal som hudbu a vytvoril zvuky ( zvuky sú väčšinou spustené cez trigger, collider alebo input )
 - vytvoril som scénu, ktorá hráčovi ukáže ako sa hra ovláda -> čo obsahuje
 - dokončil som menu, tlačítka a spravil poslednú scénu ( pohyblivé titulky )
 - [Sprites](jetpackHustler/sprites)
@@ -37,17 +37,17 @@
 - nedostal som možnosť pracovať v tíme kvôli zaplneným kapacitám, takže zostala možnosť komunitného Jamu na stránke Itch.io
 - <mark>Téma Jamu</mark>: You shouldn´t be here
 - <mark>Môj nápad</mark>: Postava pri nočnej prechádzke zablúdila v začarovanom lese a musí vyriešiť záhadu, aby sa dostala von
-- úloha: nájsť a zničiť všetky predmety viazané ku strateným dušiam
+- Úloha: nájsť a zničiť všetky predmety viazané ku strateným dušiam
 - každý predmet stráži stratená duša.. hráč musí na entity svietiť baterkou, inak ho budú prenasledovať a následne zabijú
 - dosiahnuté cez Navmesh, raycast a 2 staty ( stráž, prenasleduj ) 
 - po zničení všetkých predmetov hra končí
-- <mark>čo som vytvoril</mark>: 250x250m terén tmavého lesa s hmlou, pre atmosféru
-- hráč je vlastne kapsula s kamerou ktorá pôsobí ako FirstPerson mode
-- využil som Unity free 3D assety ktoré som rozmiestnil po mape a z niektorých vytvoril predmety
+- <mark>Čo som vytvoril</mark>: 250x250m terén tmavého lesa s hmlou, pre atmosféru
+- hráč je kapsula s camera componentom, ktorá pôsobí ako FirstPerson mode
 - interaktívna baterka ( on/off ), svetlo "vyžaruje" raycast 
-- prvý quest: Zdvihni knihu ( v knihe má hráč nápovedu )
+- využil som Unity free 3D assety ktoré som rozmiestnil po teréne a z niektorých vytvoril predmety
+- Prvý quest: zdvihni knihu ( v knihe má hráč nápovedu )
 - kniha sa zapíše ( isCollected ) -> hráč ju môže otvárať / zatvárať 
-- druhý quest: Nájdi a znič predmety ( predmety budú vypísané v hornej časti obrazovky )
+- Druhý quest: Nájdi a znič predmety ( predmety budú vypísané v hornej časti obrazovky )
 - pri zničení predmetu bude predmet marknutý ( podľa počtu predmetov.. predmet 1 = mark [0] )
 - [Screenshoty](TheMistfall/screenshots)
 - [Script](TheMistfall/script)
