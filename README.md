@@ -20,7 +20,8 @@
 - 2D platformer, hráč skáče cez prekážky, zbiera objekty a sem - tam rieši malé puzzle ( posunúť box aby doskočil )
 - nakreslil som Level Design pomocou kockového papiera, štvorcov a začal skladať level
 - keď bol level hotový, chcel som mať pohyb podobný platformovkám, ktoré mám rád.. takže som spravil research
-- variabilný jump, max jump height, max fall speed a rozbeh pomocou akcelerácie ( na použitie coyote timer som neprišiel, ale v kóde zostal )
+- variabilný jump, max jump height, max fall speed a rozbeh pomocou akcelerácie
+- ( na použitie coyote timer som neprišiel, ale v kóde zostal )
 - v programe Krita som nakreslil 2D sprites pre platformy, collectibles a postavy
 - pridal som hudbu a vytvoril zvuky ( zvuky sú väčšinou cez trigger, collider alebo input )
 - vytvoril som scénu, ktorá hráčovi ukáže ako sa hra ovláda -> čo obsahuje
