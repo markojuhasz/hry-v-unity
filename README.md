@@ -8,8 +8,9 @@
 - script pre pohyb pádel ( W/S lavá strana; Up/Down pravá strana; )
 - gulička je ovplyvnená fyzikou 
 - pri štarte alebo respawne sa gulička dotkne spodnej hranice a vyletí do náhodnej strany
+- ak loptička preletí za hráča, protilahlý hráč skóruje a loptička sa respawne
 - počítanie skóre -> hra je ovplyvnená logikou ( jeden hráč dosiahne skóre 10, hra končí )
-- Start, Exit, Pause(Esc), Continue a možný Reset po skončení
+- UI: Start, Exit, Pause(Esc), Continue a možný Reset po skončení
 - [Screenshoty](dongpong2D/screenshots/)
 - [Script](dongpong2D/script/)
 
