@@ -17,7 +17,6 @@
 ## 🎮Jetpack Hustler ![jtpckHustler](https://github.com/user-attachments/assets/b3e21cae-cd86-4b56-b7cc-5d68d23e9b99)
 
 - [Odkaz na hru](https://marecheckk.itch.io/jetpack-hustler)
-- vypísal som vlastný Game Design Document
 - 2D platformer, hráč skáče cez prekážky, zbiera objekty a sem - tam rieši malé puzzle ( posunúť box aby doskočil )
 - nakreslil som Level Design pomocou kockového papiera, štvorcov a začal skladať level
 - keď bol level hotový, chcel som mať pohyb podobný platformovkám, ktoré mám rád.. takže som spravil research
